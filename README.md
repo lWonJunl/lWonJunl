@@ -65,8 +65,3 @@
 ## 📝 Learning & GitHub
 
 [My Study](https://github.com/lWonJunl/my-study)에 프로그래밍 학습을, [동아대학교 컴퓨터공학과 기록](https://github.com/lWonJunl/donga-univ-cse)에 수업과 실습을 정리하고 있습니다.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lWonJunl&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lWonJunl&layout=compact&langs_count=6&hide_border=true&theme=transparent)
-
-<sub>언어 카드는 기본적으로 공개 저장소의 코드 양을 집계하며, 기술 숙련도를 나타내지는 않습니다.</sub>
