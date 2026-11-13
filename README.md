@@ -22,20 +22,20 @@
 
 ### 💡 Interests
 
-- Full-stack Development
-- AI (Machine Learning, Deep Learning)
-- Data Science
+- 🖥️ Full-stack Development
+- 🤖 AI (Machine Learning, Deep Learning)
+- 📊 Data Science
 
 ## 🚀 Projects
 
 - **[오늘의 교수님은 뭘까용~?](https://whos-that-professor-wonjun0307.apps.dauai.org/)** — GPS 지도 탐험과 과목 문제 풀이를 결합한 팀 학습 게임. 팀장으로 참여해 LMS 자료 기반 문제 생성, 채점 및 계정별 학습 기록을 연결했으며 DevDay 기초트랙 최우수상을 받았습니다.
-- **[우선콕](https://priority-poke.onrender.com/)** — 그룹 과제와 개인별 진행 상태, 마감 위험도를 관리하고 알림을 제공하는 Django 웹 서비스.
+- **우선콕** — 그룹 과제와 개인별 진행 상태, 마감 위험도를 관리하고 알림을 제공하는 Django 웹 서비스.
 - **[동아대학교 캠퍼스 길찾기](https://github.com/lWonJunl/2026-donga-ai-sw-summer-bootcamp/blob/main/Week03-Day04/navDay04.md)** — 팀장으로 참여해 다익스트라 알고리즘으로 계산한 캠퍼스 최단 경로를 지도에 표시한 팀 프로젝트.
 - **[개인화 RAG 채팅](https://github.com/lWonJunl/2026-donga-ai-sw-summer-bootcamp/tree/main/Week08-Day02)** — Ollama·EXAONE 채팅에 문서 전처리, Milvus 검색과 Redis 대화 맥락을 연결한 서비스.
 - **[엘니뇨·라니냐와 태풍 분석](https://github.com/lWonJunl/busanjungang-highschool/blob/main/information-subject/data-analysis/el-nino-typhoon-analysis/README.md)** — 기상청 태풍 데이터를 정리하고 해수면 온도 현상과 태풍 강도의 관계를 탐구한 데이터 분석.
 - **[Linux Terminal Recorder](https://github.com/lWonJunl/linux-terminal-recorder)** — WSL Bash 터미널 화면을 스크롤하며 캡처하고 이어 붙여 PNG와 PDF로 저장하는 Windows용 Python 도구.
 - **상대성이론과 GNSS 오차 분석** — 상대성이론에 따른 GPS 위성 시계의 시간 차이를 Python으로 계산한 교내 탐구 소논문.
-- **[개인 포트폴리오](https://wonjun-portfolio.vercel.app/)** — 프로젝트와 학습 기록을 한국어와 영어로 소개하는 Django 웹사이트.
+- **[개인 포트폴리오 웹사이트](https://wonjun-portfolio.vercel.app/)** — 프로젝트와 학습 기록을 한국어와 영어로 소개하는 Django 웹사이트.
 
 ## ✨ Activities
 
@@ -64,3 +64,6 @@
 ## 📝 Learning & GitHub
 
 [My Study](https://github.com/lWonJunl/my-study)에 개인 학습을, [동아대학교 컴퓨터공학과 기록](https://github.com/lWonJunl/donga-univ-cse)에 수업과 실습을 정리하고 있습니다.
+
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
