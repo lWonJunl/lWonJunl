@@ -64,6 +64,3 @@
 ## 📝 Learning & GitHub
 
 [My Study](https://github.com/lWonJunl/my-study)에 개인 학습을, [동아대학교 컴퓨터공학과 기록](https://github.com/lWonJunl/donga-univ-cse)에 수업과 실습을 정리하고 있습니다.
-
-![GitHub stats](./profile/stats.svg)
-![Top languages](./profile/top-langs.svg)
