@@ -1,8 +1,6 @@
 # 최원준 | WonJun Choi 👋
 
-## 🎓 About Me
-
-안녕하세요! 동아대학교 컴퓨터공학과에서 공부하고 있는 최원준입니다. 💻
+안녕하세요! 동아대학교 컴퓨터공학과 26학번 최원준입니다. 
 
 알고리즘과 데이터를 공부하며 웹 서비스 개발과 인공지능 탐구를 이어가고 있습니다.
 수업과 프로젝트에서 배운 내용을 코드로 확인하고, 실행·검토·수정한 과정을 GitHub에 기록합니다.
@@ -11,7 +9,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-lWonJunl-181717?style=flat-square&logo=github)](https://github.com/lWonJunl)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0F766E?style=flat-square)](https://wonjun-portfolio.vercel.app/)
 
-## 🛠️ Tech Stack & Learning
+## 🎓 About Me
+
+### 🛠️ Tech Stack & Learning
 
 - **Languages:** Python, Java, C, JavaScript, SQL
 - **Frontend:** HTML, CSS, JavaScript
@@ -19,9 +19,7 @@
 - **Database:** MySQL, PostgreSQL
 - **Tools:** Git, GitHub, Linux, Visual Studio Code, Codex, Figma
 
-수업과 개인·팀 프로젝트에서 사용하거나 학습한 기술입니다.
-
-## 💡 Interests
+### 💡 Interests
 
 - Full-stack Development
 - AI (Machine Learning, Deep Learning)
@@ -40,7 +38,7 @@
 
 ## ✨ Activities
 
-- **[부산광역시교육청정보영재교육원](https://github.com/lWonJunl/bgcec-22nd)** · 2023.03 ~ 2024.02<br>
+- **[부산광역시교육청 정보영재교육원](https://github.com/lWonJunl/bgcec-22nd)** · 2023.03 ~ 2024.02<br>
   Python, 정수론과 머신러닝·딥러닝 기초를 공부하고 정보과학 심화반을 차석으로 수료했습니다.
 - **2026 날씨 빅데이터 콘테스트 참가** · 2026.05 ~ 2026.06<br>
   기상 정보를 활용한 한우 등급 예측을 주제로 데이터 정제·자료 결합·분류 모델 비교와 평가를 경험했습니다. 제출 후 전처리와 검증 방법을 재검토했습니다.
@@ -50,7 +48,7 @@
   알고리즘·데이터베이스·웹 개발을 공부하며 개인화 RAG 채팅을 만들고 Qwen2.5-0.5B의 CPU 기반 LoRA와 전체 파인튜닝을 실습했습니다.
 - **제3회 미래융합인재 발굴 소프트웨어 챌린지** · 2026.10<br>
   부캉이 팀으로 Wi-Fi CSI와 로컬 AI를 활용해 낙상 의심 상황을 감지하고 보호자에게 알리는 비촬영 생활안전 보조 시스템 **OnGuard**를 제안했습니다.
-- **동아대학교 2026 AI Innovation Week DevDay** · 2026.10 ~ 2026.11<br>
+- **[동아대학교 2026 AI Innovation Week DevDay](https://github.com/lWonJunl/2026-devday)** · 2026.10 ~ 2026.11<br>
   동아대학교 AI중심대학의 행사에 먼작귀 팀장으로 참가해 위치 기반 학습 게임을 개발하고 기초트랙 최우수상을 받았습니다.
 - **[Apache Airflow 한국어 UI 번역 기여](https://github.com/apache/airflow/pull/76506)** · 2026.11<br>
   네 한국어 번역 파일의 UI 문구를 보완하고 리뷰를 반영했으며, PR이 원본 프로젝트에 병합되었습니다.
@@ -64,4 +62,4 @@
 
 ## 📝 Learning & GitHub
 
-[My Study](https://github.com/lWonJunl/my-study)에 프로그래밍 학습을, [동아대학교 컴퓨터공학과 기록](https://github.com/lWonJunl/donga-univ-cse)에 수업과 실습을 정리하고 있습니다.
+[My Study](https://github.com/lWonJunl/my-study)에 개인 학습을, [동아대학교 컴퓨터공학과 기록](https://github.com/lWonJunl/donga-univ-cse)에 수업과 실습을 정리하고 있습니다.
