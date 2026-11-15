@@ -1,7 +1,7 @@
-# 최원준 | WonJun Choi 👋
+# 최원준 *WonJun Choi*
 
 안녕하세요! 동아대학교 컴퓨터공학과 26학번 최원준입니다. 
-<!-- 현재 [Data Science Lab(https://www.datasciencelabs.org/)에 학부연구생 인턴으로 합류하여 연구 활동에 참여하고 있습니다. -->
+<!-- 현재 [Data Science Lab](https://www.datasciencelabs.org/)에 학부연구생 인턴으로 합류하여 연구 활동에 참여하고 있습니다. -->
 
 알고리즘과 데이터를 공부하며 웹 서비스 개발과 인공지능 탐구를 이어가고 있습니다.
 수업과 프로젝트에서 배운 내용을 코드로 확인하고, 실행·검토·수정한 과정을 GitHub에 기록합니다.
